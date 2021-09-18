@@ -1,0 +1,64 @@
+
+*{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#cabecalho h1{
+    text-align: center;
+    color: darkslategray;
+    font-size: 50px;
+}
+
+#menu{
+    text-align: center;
+    position:  relative;
+    top: 5px;
+    background-color:darkslategrey;
+    padding-bottom: 0px;
+   
+}
+#menu ul{
+    padding: 30px;
+    margin: 10px;
+}
+#menu ul li{
+    display: inline;
+    padding: 5px 20px;
+    font-weight: bold;
+    color:white;
+}
+
+* h2{
+    color:darkslategray;
+}
+
+* nav{
+    padding-bottom: 20px;
+}
+
+#imgredonda {
+    margin: 20px 20px 20px 20px;
+    height: 220px;
+    height: 220px;
+    border-radius: 30%;
+    position: relative;
+	top: 36%;
+    border:darkslategrey solid 2px;
+}
+
+#textoSobre{
+    margin-top: -220px;
+    margin-left: 220px;
+    margin-bottom: 80px;
+}
+
+#rodape{
+    background-color: darkslategrey;
+    text-align: center;
+    top: 5px;
+}
+#rodape p {
+    color: white;
+    font-weight: normal;
+}
