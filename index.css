@@ -69,3 +69,17 @@ a {
 a:hover{
     color:lightslategrey;
 }
+
+#linkedin {
+    color:darkslategrey;
+}
+#linkedin:hover{
+    color:#0e76a8;
+}
+
+#github {
+    color:darkslategrey;
+}
+#github:hover{
+    color:black;
+}
